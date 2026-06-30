@@ -1,0 +1,6 @@
+{
+  "name": "Asistente Inmobiliario WhatsApp",
+  "description": "Simulador de bot de WhatsApp y panel de control para calificar prospectos inmobiliarios y conectar con brokers de propiedades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
